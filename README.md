@@ -7,4 +7,9 @@
 - These are the countries I've spent time in since 2018, in order: 🇵🇪🇧🇷🇨🇴🇻🇳🇦🇺🇳🇿🇵🇭🇹🇭🇲🇾🇧🇩🇮🇩🇸🇬🇯🇵🇧🇷🇲🇽🇿🇦🇳🇦🇨🇴
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
