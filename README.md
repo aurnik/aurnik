@@ -6,6 +6,6 @@
 - 📫 How to reach me: same email associated with my commits
 - These are the countries I've spent time in since 2018, in order: 🇵🇪🇧🇷🇨🇴🇻🇳🇦🇺🇳🇿🇵🇭🇹🇭🇲🇾🇧🇩🇮🇩🇸🇬🇯🇵🇧🇷🇲🇽🇿🇦🇳🇦🇨🇴
 
-[![Aurnik's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurnik&hide=stars&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Aurnik's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurnik&hide=stars&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurnik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurnik&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
