@@ -8,4 +8,10 @@
 
 [![Aurnik's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurnik&hide=stars&show_icons=true&theme=transparent&hide_rank=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurnik&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
