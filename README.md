@@ -1,24 +1,3 @@
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/aurnik)
-
-- 🔭 Full-stack developer from San Diego currently building development pipelines for _Sierra21_
-- 🌱 I’m currently learning **Rust** in the context of building desktop apps with [Tauri](https://github.com/tauri-apps/tauri)
-- 🎧 We can talk about music all day. My current coding music is [Poolsuite FM](http://poolsuite.net)
-- Countries I've spent time in since 2018, in order: 🇵🇪🇧🇷🇨🇴🇻🇳🇦🇺🇳🇿🇵🇭🇹🇭🇲🇾🇧🇩🇮🇩🇸🇬🇯🇵🇧🇷🇲🇽🇿🇦🇳🇦🇨🇴
-
-<!--START_SECTION:waka-->
-
-```txt
-Svelte                       ████████░░░░░░░░░░░░░░░░░   31.87 %
-TypeScript                   ███████░░░░░░░░░░░░░░░░░░   27.35 %
-Markdown                     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-JavaScript                   ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
-CSS                          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-```
-
-<!--END_SECTION:waka-->
-
----
-
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
