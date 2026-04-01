@@ -1,1 +1,19 @@
-Currently working on: [Jetson](https://jetson.help)
+## Currently working
+- on: [Jetson](https://jetson.help)
+- out of: New Zealand
+
+## Travels
+🇧🇩🇫🇷🇪🇸🇵🇪🇧🇷🇨🇴🇻🇳🇦🇺🇳🇿🇵🇭🇹🇭🇮🇩🇲🇾🇸🇬🇯🇵🇲🇽🇿🇦🇳🇦🇵🇱🇷🇴
+
+## Most-used Languages
+Human
+- English
+- Portuguese
+- Bengali
+- Spanish
+
+Programming
+- TypeScript
+- Python
+- Lua
+- Swift
