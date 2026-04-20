@@ -1,6 +1,6 @@
 ## Currently working
 - on: [Jetson](https://jetson.help)
-- out of: New Zealand
+- out of: Japan
 
 ## Travels
 🇧🇩🇫🇷🇪🇸🇵🇪🇧🇷🇨🇴🇻🇳🇦🇺🇳🇿🇵🇭🇹🇭🇮🇩🇲🇾🇸🇬🇯🇵🇲🇽🇿🇦🇳🇦🇵🇱🇷🇴
